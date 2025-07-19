@@ -10,8 +10,8 @@
 
 - 🎓 Formando em **Análise e Desenvolvimento de Sistemas**
 - 🧠 Apaixonado por **tecnologia, design e automação**
-- 🛠️ Desenvolvedor de sistemas web e apps Android
-- 🧩 Criador do **Despa Agenda**, **NextMesa**, **DespaCursos**, **BarberGo** e outros projetos autorais
+- 🛠️ Desenvolvedor de sistemas web e apps 
+- 🧩 Criador do **Despa Agenda**, **NextMesa**, **Organo**, **BarberGo** e outros projetos autorais
 - 💼 Sempre em busca de **projetos com impacto e propósito**
 
 ---
@@ -28,9 +28,9 @@
 📌 Help desk com autenticação JWT, painel dark com sidebar e dashboard para usuários e administradores.  
 🔗 Tecnologias: Next.js, Prisma, PostgreSQL, ShadCN, JWT
 
-#### 🎓 DespaCursos — Plataforma de ensino para despachantes  
-📚 Site com vídeos e conteúdos sobre e-CRV, Gever e muito mais.  
-🔗 Tecnologias: React, TailwindCSS, YouTube iframe
+#### 💈 BarberGO — SaaS para agendamentos em barbearias
+✂️ Sistema inteligente para agendar cortes, selecionar profissionais e visualizar horários disponíveis.
+🔗 Tecnologias: React, TailwindCSS, Firebase
 
 #### 🍽️ NextMesa — Sistema de atendimento para restaurantes  
 🪑 Controle de mesas, atendimento, pedidos e fluxo de clientes em tempo real.  
