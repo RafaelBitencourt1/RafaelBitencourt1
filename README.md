@@ -26,14 +26,17 @@
 
 #### 🔧 Despa Agenda — Sistema de Help Desk  
 📌 Help desk com autenticação JWT, painel dark com sidebar e dashboard para usuários e administradores.  
+
 🔗 Tecnologias: Next.js, Prisma, PostgreSQL, ShadCN, JWT
 
 #### 💈 BarberGO — SaaS para agendamentos em barbearias
-✂️ Sistema inteligente para agendar cortes, selecionar profissionais e visualizar horários disponíveis.
+✂️ Sistema inteligente para agendar cortes, selecionar profissionais e visualizar horários disponíveis.                                                                                                      
+
 🔗 Tecnologias: React, TailwindCSS, Firebase
 
 #### 🍽️ NextMesa — Sistema de atendimento para restaurantes  
 🪑 Controle de mesas, atendimento, pedidos e fluxo de clientes em tempo real.  
+
 🔗 Tecnologias: React, Firebase, TypeScript
 
 ---
