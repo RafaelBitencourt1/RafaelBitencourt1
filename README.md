@@ -30,7 +30,6 @@
 
 #### 💈 BarberGO — SaaS para agendamentos em barbearias
 ✂️ Sistema inteligente para agendar cortes, selecionar profissionais e visualizar horários disponíveis.
-
 🔗 Tecnologias: React, TailwindCSS, Firebase
 
 #### 🍽️ NextMesa — Sistema de atendimento para restaurantes  
