@@ -54,7 +54,7 @@
 
 - 📸 Instagram: [@rafaelbitencourt.dev](https://www.instagram.com/rfl_bitencourt/)
 - 💼 LinkedIn: [linkedin.com/in/rafael-bitencourt](https://www.linkedin.com/in/rafael-bitencourtgf/)
-- 🌎 Portfólio: [*(adicione o link se tiver)*](https://portifolio-eight-mauve-22.vercel.app/)
+- 🌎 Portfólio: (https://portifolio-eight-mauve-22.vercel.app/)
 
 ---
 
