@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0051FF,50:00F7FF,100:00F7FF&height=200&section=header&text=Rafael+Bitencourt&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full+Stack+Developer+%26+Systems+Analyst&descAlignY=55&descSize=18&descColor=ffffffCC" width="100%" />
-</p>
-
 <div align="center">
 
 <a href="https://github.com/rafaelbitencourt1">
