@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/rafaelbitencourt1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Ol%C3%A1!+Eu+sou+o+Rafael+Bitencourt+%F0%9F%91%8B;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Ola!+Eu+sou+o+Rafael+Bitencourt;Transformando+ideias+em+solucoes+digitais" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -115,91 +115,7 @@ const rafael = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/rafaelbitencourt1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbitencourt1&repo=despa-agenda&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&icon_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&hide_border=false" width="47%" />
-</a>
-&nbsp;
-<a href="https://github.com/rafaelbitencourt1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbitencourt1&repo=barbergo&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&icon_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&hide_border=false" width="47%" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/-Despa_Agenda-00F7FF?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-Help desk com autenticacao **JWT**, painel dark com sidebar e dashboard para **usuarios e admins**.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/ShadCN-000?style=flat-square&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/-BarberGO-00F7FF?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-SaaS para agendar cortes, selecionar **profissionais** e visualizar **horarios disponiveis**.
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=0D1117" />
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/-NextMesa-00F7FF?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-Controle de mesas, pedidos e **fluxo de clientes em tempo real**.
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<a href="https://github.com/rafaelbitencourt1?tab=repositories">
-  <img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSITORIOS-00F7FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/>
 
 ## Tech Orbit - Meu Ecossistema de Desenvolvimento
 
@@ -253,7 +169,7 @@ graph TD
   <img src="https://img.shields.io/badge/Rafael_Bitencourt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
 </a>
 &nbsp;
-<a href="https://portifolio-eight-mauve-22.vercel.app/" target="_blank">
+<a href="https://rafael.bitencourt.dev.br/" target="_blank">
   <img src="https://img.shields.io/badge/Meu_Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" height="45" />
 </a>
 
