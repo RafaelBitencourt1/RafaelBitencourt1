@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/rafaelbitencourt">
+<a href="https://github.com/rafaelbitencourt1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+o+Rafael+Bitencourt;%F0%9F%92%A1+Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais+reais" alt="Typing SVG" />
 </a>
 
@@ -12,13 +12,13 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rafaelbitencourt&color=00F7FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rafaelbitencourt1&color=00F7FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 &nbsp;&nbsp;
-<a href="https://github.com/rafaelbitencourt?tab=followers">
-  <img src="https://img.shields.io/github/followers/rafaelbitencourt?label=Followers&style=flat-square&color=0051FF&labelColor=0D1117&logo=github" alt="Followers" />
+<a href="https://github.com/rafaelbitencourt1?tab=followers">
+  <img src="https://img.shields.io/github/followers/rafaelbitencourt1?label=Followers&style=flat-square&color=0051FF&labelColor=0D1117&logo=github" alt="Followers" />
 </a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/stars/rafaelbitencourt?label=Stars&style=flat-square&color=00F7FF&labelColor=0D1117&logo=github" alt="Stars" />
+<img src="https://img.shields.io/github/stars/rafaelbitencourt1?label=Stars&style=flat-square&color=00F7FF&labelColor=0D1117&logo=github" alt="Stars" />
 
 </div>
 
@@ -37,16 +37,16 @@
 
 ```typescript
 const rafael = {
-  formação: "Análise e Desenvolvimento de Sistemas",
-  paixão: ["Tecnologia", "Design", "Automação"],
-  atuação: "Desenvolvedor de sistemas web e apps",
+  formaÃ§Ã£o: "AnÃ¡lise e Desenvolvimento de Sistemas",
+  paixÃ£o: ["Tecnologia", "Design", "AutomaÃ§Ã£o"],
+  atuaÃ§Ã£o: "Desenvolvedor de sistemas web e apps",
   projetos: [
     "Despa Agenda",
     "NextMesa",
     "Organo",
     "BarberGo"
   ],
-  objetivo: "Projetos com impacto e propósito",
+  objetivo: "Projetos com impacto e propÃ³sito",
   mantra: "Build. Ship. Iterate."
 };
 ```
@@ -58,10 +58,10 @@ const rafael = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓-ADS-00F7FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🧠-Tech_&_Design-0051FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🛠️-Web_&_Mobile-00F7FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/💼-SaaS_Builder-0051FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ðŸŽ“-ADS-00F7FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ðŸ§ -Tech_&_Design-0051FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ðŸ› ï¸-Web_&_Mobile-00F7FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ðŸ’¼-SaaS_Builder-0051FF?style=flat-square&labelColor=0D1117" />
 
 </td>
 </tr>
@@ -84,7 +84,7 @@ const rafael = {
 
 <div align="center">
 
-**`🖥️ FRONTEND`**
+**`ðŸ–¥ï¸ FRONTEND`**
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -94,14 +94,14 @@ const rafael = {
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117" />
 
-**`⚙️ BACKEND & DATABASE`**
+**`âš™ï¸ BACKEND & DATABASE`**
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0D1117" />
 
-**`📱 MOBILE`**
+**`ðŸ“± MOBILE`**
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -120,12 +120,12 @@ const rafael = {
 <div align="center">
 
 <!-- Despa Agenda -->
-<a href="https://github.com/rafaelbitencourt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbitencourt&repo=despa-agenda&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&icon_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&hide_border=false" width="47%" />
+<a href="https://github.com/rafaelbitencourt1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbitencourt1&repo=despa-agenda&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&icon_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&hide_border=false" width="47%" />
 </a>
 &nbsp;
-<a href="https://github.com/rafaelbitencourt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbitencourt&repo=barbergo&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&icon_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&hide_border=false" width="47%" />
+<a href="https://github.com/rafaelbitencourt1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbitencourt1&repo=barbergo&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&icon_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&hide_border=false" width="47%" />
 </a>
 
 </div>
@@ -138,11 +138,11 @@ const rafael = {
 <tr>
 <td width="33%" align="center">
 
-<img src="https://img.shields.io/badge/-🔧_Despa_Agenda-00F7FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/-ðŸ”§_Despa_Agenda-00F7FF?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-📌 Help desk com autenticação **JWT**, painel dark com sidebar e dashboard para **usuários e admins**.
+ðŸ“Œ Help desk com autenticaÃ§Ã£o **JWT**, painel dark com sidebar e dashboard para **usuÃ¡rios e admins**.
 
 <br/>
 
@@ -156,11 +156,11 @@ const rafael = {
 </td>
 <td width="33%" align="center">
 
-<img src="https://img.shields.io/badge/-💈_BarberGO-00F7FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/-ðŸ’ˆ_BarberGO-00F7FF?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-✂️ SaaS para agendar cortes, selecionar **profissionais** e visualizar **horários disponíveis**.
+âœ‚ï¸ SaaS para agendar cortes, selecionar **profissionais** e visualizar **horÃ¡rios disponÃ­veis**.
 
 <br/>
 
@@ -171,11 +171,11 @@ const rafael = {
 </td>
 <td width="33%" align="center">
 
-<img src="https://img.shields.io/badge/-🍽️_NextMesa-00F7FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/-ðŸ½ï¸_NextMesa-00F7FF?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-🪑 Controle de mesas, pedidos e **fluxo de clientes em tempo real**.
+ðŸª‘ Controle de mesas, pedidos e **fluxo de clientes em tempo real**.
 
 <br/>
 
@@ -189,8 +189,8 @@ const rafael = {
 
 <br/>
 
-<a href="https://github.com/rafaelbitencourt?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_VER_TODOS_OS_REPOSITÓRIOS-00F7FF?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" />
+<a href="https://github.com/rafaelbitencourt1?tab=repositories">
+  <img src="https://img.shields.io/badge/ðŸš€_VER_TODOS_OS_REPOSITÃ“RIOS-00F7FF?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" />
 </a>
 
 </div>
@@ -204,10 +204,10 @@ const rafael = {
 
 
 
-## 🌌 Tech Orbit — Meu Ecossistema de Desenvolvimento
+## ðŸŒŒ Tech Orbit â€” Meu Ecossistema de Desenvolvimento
 
 <div align="center">
-<i>Este diagrama representa como as tecnologias que utilizo se conectam no desenvolvimento dos meus projetos — do front-end ao back-end, passando por mobile.</i>
+<i>Este diagrama representa como as tecnologias que utilizo se conectam no desenvolvimento dos meus projetos â€” do front-end ao back-end, passando por mobile.</i>
 </div>
 
 <br/>
@@ -215,13 +215,13 @@ const rafael = {
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00F7FF', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#0051FF', 'lineColor': '#00F7FF', 'secondaryColor': '#0D1117', 'tertiaryColor': '#0D1117', 'edgeLabelBackground': '#0D1117'}}}%%
 graph TD
-    A[⚛️ React] --> B[🟢 Node.js]
-    B --> C[🐘 PostgreSQL]
-    B --> D[🔐 Firebase Auth]
-    A --> E[🎨 TailwindCSS]
-    B --> F[◆ Prisma ORM]
-    G[📱 Kotlin] --> H[🤖 Android]
-    H --> I[🔥 Firebase]
+    A[âš›ï¸ React] --> B[ðŸŸ¢ Node.js]
+    B --> C[ðŸ˜ PostgreSQL]
+    B --> D[ðŸ” Firebase Auth]
+    A --> E[ðŸŽ¨ TailwindCSS]
+    B --> F[â—† Prisma ORM]
+    G[ðŸ“± Kotlin] --> H[ðŸ¤– Android]
+    H --> I[ðŸ”¥ Firebase]
     A --> |Next.js| B
     F --> C
     D --> I
@@ -257,7 +257,7 @@ graph TD
 </a>
 &nbsp;
 <a href="https://portifolio-eight-mauve-22.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Meu_Portfólio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" height="45" />
+  <img src="https://img.shields.io/badge/Meu_PortfÃ³lio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" height="45" />
 </a>
 
 <br/><br/>
@@ -272,9 +272,9 @@ graph TD
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelbitencourt/rafaelbitencourt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelbitencourt/rafaelbitencourt/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/rafaelbitencourt/rafaelbitencourt/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelbitencourt1/rafaelbitencourt1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelbitencourt1/rafaelbitencourt1/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/rafaelbitencourt1/rafaelbitencourt1/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -282,7 +282,7 @@ graph TD
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&lines=💜+Obrigado+por+visitar+meu+perfil!;Sinta-se+à+vontade+para+explorar+meus+projetos+👇;⭐+Deixe+uma+star+se+curtir+algum+projeto!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&lines=ðŸ’œ+Obrigado+por+visitar+meu+perfil!;Sinta-se+Ã +vontade+para+explorar+meus+projetos+ðŸ‘‡;â­+Deixe+uma+star+se+curtir+algum+projeto!" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0051FF,50:00F7FF,100:00F7FF&height=120&section=footer" />
