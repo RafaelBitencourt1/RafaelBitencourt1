@@ -1,14 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0051FF,50:00F7FF,100:00F7FF&height=220&section=header&text=Rafael%20Bitencourt&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%26%20Systems%20Analyst&descAlignY=54&descSize=20&descColor=FFFFFFCC" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0051FF,50:00F7FF,100:00F7FF&height=200&section=header&text=Rafael+Bitencourt&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full+Stack+Developer+%26+Systems+Analyst&descAlignY=55&descSize=18&descColor=ffffffCC" width="100%" />
+</p>
 
 <div align="center">
 
 <a href="https://github.com/rafaelbitencourt1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Ola!+Eu+sou+o+Rafael+Bitencourt;Transformando+ideias+em+solucoes+digitais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Ola!+Eu+sou+o+Rafael+Bitencourt;Transformando+ideias+em+solucoes+digitais" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF88&center=true&vCenter=true&width=650&height=35&lines=Building+Scalable+SaaS+Platforms;Kotlin+%7C+Node.js+%7C+React+%7C+Firebase;Next.js+%7C+Prisma+%7C+PostgreSQL+%7C+TailwindCSS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF88&center=true&vCenter=true&width=800&height=35&lines=Building+Scalable+SaaS+Platforms;Kotlin+%7C+Node.js+%7C+React+%7C+Firebase;Next.js+%7C+Prisma+%7C+PostgreSQL+%7C+TailwindCSS" alt="Typing SVG" />
 
 <br/>
 
