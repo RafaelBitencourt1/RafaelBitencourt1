@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Ola!+Eu+sou+o+Rafael+Bitencourt;Transformando+ideias+em+solucoes+digitais" alt="Typing SVG" />
 </a>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF88&center=true&vCenter=true&width=800&height=35&lines=Building+Scalable+SaaS+Platforms;Kotlin+%7C+Node.js+%7C+React+%7C+Firebase;Next.js+%7C+Prisma+%7C+PostgreSQL+%7C+TailwindCSS" alt="Typing SVG" />
 
 <br/>
@@ -22,12 +20,9 @@
 
 <br/>
 
-<!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Sobre mim
+## 🧑‍💻 Sobre mim
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -35,8 +30,8 @@
 
 ```typescript
 const rafael = {
-  formacao: "Analise e Desenvolvimento de Sistemas",
-  paixao: ["Tecnologia", "Design", "Automacao"],
+  formacao: "Análise e Desenvolvimento de Sistemas",
+  paixao: ["Tecnologia", "Design", "Automação"],
   atuacao: "Desenvolvedor de sistemas web e apps",
   projetos: [
     "Despa Agenda",
@@ -44,7 +39,7 @@ const rafael = {
     "Organo",
     "BarberGo"
   ],
-  objetivo: "Projetos com impacto e proposito",
+  objetivo: "Projetos com impacto e propósito",
   mantra: "Build. Ship. Iterate."
 };
 ```
@@ -67,12 +62,9 @@ const rafael = {
 
 <br/>
 
-<!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,nodejs,postgres,firebase,prisma,tailwind,html,css,js,kotlin,androidstudio&perline=7" />
@@ -108,17 +100,12 @@ const rafael = {
 
 <br/>
 
-<!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<br/>
-
-
-
-## Tech Orbit - Meu Ecossistema de Desenvolvimento
+## 🪐 Tech Orbit — Meu Ecossistema de Desenvolvimento
 
 <div align="center">
-<i>Este diagrama representa como as tecnologias que utilizo se conectam no desenvolvimento dos meus projetos - do front-end ao back-end, passando por mobile.</i>
+<i>Como as tecnologias que utilizo se conectam no desenvolvimento dos meus projetos — do front-end ao back-end, passando pelo mobile.</i>
 </div>
 
 <br/>
@@ -150,8 +137,33 @@ graph TD
 
 <br/>
 
-<!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+| Projeto | Descrição |
+|---|---|
+| **Despa Agenda** | Sistema de agendamento e gestão para despachantes |
+| **NextMesa** | Plataforma de gestão para restaurantes e mesas |
+| **Organo** | Aplicação de organização e produtividade |
+| **BarberGo** | App de agendamento para barbearias |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building%20scalable%20systems%2C%20automations%20and%20SaaS%20platforms.&author=Rafael%20Bitencourt" />
+</div>
+
+<br/>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/rafaelbitencourt1/rafaelbitencourt1/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
+</div>
 
 <br/>
 
@@ -173,21 +185,8 @@ graph TD
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building%20scalable%20systems%2C%20automations%20and%20SaaS%20platforms.&author=Rafael%20Bitencourt" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&lines=Obrigado+por+visitar+meu+perfil!;Sinta-se+a+vontade+para+explorar+meus+projetos;Deixe+uma+star+se+curtir+algum+projeto!" />
 
-</div>
-
-<br/>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/rafaelbitencourt1/rafaelbitencourt1/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&lines=Obrigado+por+visitar+meu+perfil!;Sinta-se+a+vontade+para+explorar+meus+projetos;Deixe+uma+star+se+curtir+algum+projeto!" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0051FF,50:00F7FF,100:00F7FF&height=120&section=footer" />
